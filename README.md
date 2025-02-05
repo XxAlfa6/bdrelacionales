@@ -1,2 +1,2 @@
-# bdrelacionales
-Base de datos relacionales 
+# Rosselyn Esparza Uriarte
+4AVP
